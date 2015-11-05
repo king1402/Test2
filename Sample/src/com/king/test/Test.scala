@@ -7,5 +7,6 @@ object Test {
     var z = Nil
     var kkk = List(1,2,3)
     kkk.foreach { x => println(x) }
+    asdasd
   }
 }
